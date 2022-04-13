@@ -19,5 +19,6 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
-  "start_url": "https://www.qoutemedia.my.id"
+    "start_url": "https://www.qoutemedia.my.id",
+    "id": "https://www.qoutemedia.my.id"
 }
