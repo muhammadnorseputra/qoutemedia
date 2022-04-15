@@ -20,5 +20,8 @@
     "display": "standalone",
     "prefer_related_applications": false,
     "start_url": "https://www.qoutemedia.my.id",
-    "id": "https://www.qoutemedia.my.id"
+    "id": "https://www.qoutemedia.my.id",
+    "orientation": "portrait-primary",
+    "lang": "id-ID",
+    "categories": ["news", "education", "medical","viral","tips","trik","tools"]
 }
