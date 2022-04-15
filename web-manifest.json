@@ -1,6 +1,7 @@
 {
     "name": "QouteMedia",
     "short_name": "QMedia",
+    "description": "QouteMedia - Bergerak dibidang media informasi terkini, uptodate, terpercaya yang bersumber dari berbagi media terkait. Dapat memberikan wawasan untuk pelajar atau umum, memberikan yang terbaik untuk audiens demi memperoleh info yang berkualitas dan terpercaya",
     "icons": [
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXPTwyPwTqlQwuCwtzTjNc_uxVIBAUWK7b2Xi8twOBCdfwUV6-ICIfRGS-6IzpcFNJlPCuh_MDM2ExyCn-pMTLAXJxAcPNha-iDdDjvc1wwsGp9OE7R7npm06x_oBVWUw6ZYxmY_FkL76MRQ8dOrMrG-J-h5GmwkCDknhOu6-nzD286qU4AuafgpRm/s1600/android-chrome-192x192.png",
@@ -15,6 +16,7 @@
             "purpose": "any maskable"
         }
     ],
+    "dir": "rtl",
     "theme_color": "#3291d1",
     "background_color": "#ffffff",
     "display": "standalone",
