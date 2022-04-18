@@ -1,0 +1,24 @@
+{
+    "name": "Haur Gading",
+    "short_name": "HG",
+    "icons": [
+        {
+            "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/main/hg-android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/main/hg-android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  	"start_url": "https://www.sdn-haurgading.xyz/",
+ 	"id": "https://www.sdn-haurgading.xyz/"
+}
