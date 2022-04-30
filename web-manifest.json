@@ -16,6 +16,38 @@
             "purpose": "any maskable"
         }
     ],
+    "screenshots": [
+        {
+          "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/master/capture/c1.png",
+          "type": "image/png",
+          "sizes": "720x1330",
+          "label": "Halaman utama blogger"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/master/capture/c2.png",
+          "type": "image/png",
+          "sizes": "720x1330",
+          "label": "Support Dark Mode"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/master/capture/c3.png",
+          "type": "image/png",
+          "sizes": "720x1330",
+          "label": "Tentang Kami"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/master/capture/c4.png",
+          "type": "image/png",
+          "sizes": "720x1330",
+          "label": "Hubungi Kami"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/muhammadnorseputra/qoutemedia/master/capture/c5.png",
+          "type": "image/png",
+          "sizes": "720x1330",
+          "label": "Kumpulan Tools"
+        }
+      ],
     "dir": "rtl",
     "theme_color": "#3291d1",
     "background_color": "#ffffff",
